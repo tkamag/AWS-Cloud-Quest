@@ -2,7 +2,7 @@ In this file we will walkthrough Data Analytics csenarios
 ## A - Serverless Foundations
 
 <figure>
-    <img src="./images/Serverless_2.png" alt=".." title="Optional title" width="45%" height="70%"/>
+    <img src="./images/Lab.png" alt=".." title="Optional title" width="45%" height="70%"/>
     <figcaption></figcaption>
 </figure>
 
