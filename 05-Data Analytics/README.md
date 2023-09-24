@@ -8,7 +8,9 @@ In this file we will walkthrough Data Analytics csenarios
 
 ### A.1 Pratice Lab Goals
 1 - Use Python to create an AWS Lambda functions
+
 2 - Deploy the Lambda  function
+
 3 - Test the Lambda function
 
 ### A.2 DIY
