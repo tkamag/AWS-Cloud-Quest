@@ -59,3 +59,14 @@ In this file we will walkthrough Data Analytics csenarios
 2 - Update the labFunction-DIY-Processor Lamnbda functions environment variables with S3 bucket names creates in the lab.
 
 3 - Invoke the labFunction-Data-Generator Lambda function  and verify that a new ``.csv`` files was created in the consumption zone S3 bucket.
+
+Note:
+1.  [Recommended data layers](https://docs.aws.amazon.com/prescriptive-guidance/latest/defining-bucket-names-data-lakes/data-layer-definitions.html)
+
+2. [Data lake foundation](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/data-lake-foundation.html)
+
+3. [Modern data architecture layers deep-dive](https://docs.aws.amazon.com/whitepapers/latest/modern-data-architecture-rationales-on-aws/modern-data-architecture-layers-deep-dive.html)
+
+4. [Defining S3 bucket and path names for data lake layers on the AWS Cloud](https://docs.aws.amazon.com/prescriptive-guidance/latest/defining-bucket-names-data-lakes/welcome.html)
+
+5. [Google-Amazon storage layer for data lake](https://www.google.com/search?q=Amazon+storage+layer+for+data+lake&oq=Amazon+storage+layer+for+data+lake&aqs=chrome..69i57j69i64.9127j1j7&sourceid=chrome&ie=UTF-8#ip=1)
