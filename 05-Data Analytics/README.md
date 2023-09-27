@@ -41,6 +41,21 @@ In this file we will walkthrough Data Analytics csenarios
 
 <figure>
     <img src="./images/Data_Lakes_1.png" alt=".." title="Optional title" width="64%" height="70%"/>
-    <img src="./images/DIY_Data_Lake.png" alt=".." title="Optional title" width="35%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+### C.1 Pratice Lab Goals
+1 - Use Amazon S3 as a storage layer of a data lake.
+
+2 - Organize data into layers (or zones) in Amazon S3.
+
+3 - Configure an S3 event notification to invoke an AWS Lambda functions.
+
+4 - Create aan Amazon EventBridge rule to invoke the Lambda function.
+
+### C.2 DIY
+1 - Create a second EnventBridge rule to invole the labFunction-DIY-Processor Lambda function.
+
+2 - Update the labFunction-DIY-Processor Lamnbda functions environment variables with S3 bucket names creates in the lab.
+
+3 - Invoke the labFunction-Data-Generator Lambda function  and verify that a new ``.csv`` files was created in the consumption zone S3 bucket.
