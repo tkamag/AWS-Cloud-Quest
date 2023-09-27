@@ -36,3 +36,11 @@ In this file we will walkthrough Data Analytics csenarios
 1 - Edit the Kinesis data Firehose delivery streams to send real-time analytics to an Amazon DynamoDB table.
 
 2 - Change the S2 buffer hints, buffer interval setting to 60 seconds.
+
+## C - Data Lakes
+
+<figure>
+    <img src="./images/Data_Lakes_1.png" alt=".." title="Optional title" width="65%" height="70%"/>
+    <img src="./images/DIY_Data_Lake.png" alt=".." title="Optional title" width="65%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
