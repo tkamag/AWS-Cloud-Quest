@@ -60,7 +60,8 @@ In this file we will walkthrough Data Analytics csenarios
 
 3 - Invoke the labFunction-Data-Generator Lambda function  and verify that a new ``.csv`` files was created in the consumption zone S3 bucket.
 
-Note:
+**Note:**
+
 1.  [Recommended data layers](https://docs.aws.amazon.com/prescriptive-guidance/latest/defining-bucket-names-data-lakes/data-layer-definitions.html)
 
 2. [Data lake foundation](https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/data-lake-foundation.html)
