@@ -40,7 +40,7 @@ In this file we will walkthrough Data Analytics csenarios
 ## C - Data Lakes
 
 <figure>
-    <img src="./images/Data_Lakes_1.png" alt=".." title="Optional title" width="65%" height="70%"/>
-    <img src="./images/DIY_Data_Lake.png" alt=".." title="Optional title" width="65%" height="70%"/>
+    <img src="./images/Data_Lakes_1.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <img src="./images/DIY_Data_Lake.png" alt=".." title="Optional title" width="35%" height="70%"/>
     <figcaption></figcaption>
 </figure>
