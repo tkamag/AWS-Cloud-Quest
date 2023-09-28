@@ -71,3 +71,22 @@ In this file we will walkthrough Data Analytics csenarios
 4. [Defining S3 bucket and path names for data lake layers on the AWS Cloud](https://docs.aws.amazon.com/prescriptive-guidance/latest/defining-bucket-names-data-lakes/welcome.html)
 
 5. [Google-Amazon storage layer for data lake](https://www.google.com/search?q=Amazon+storage+layer+for+data+lake&oq=Amazon+storage+layer+for+data+lake&aqs=chrome..69i57j69i64.9127j1j7&sourceid=chrome&ie=UTF-8#ip=1)
+
+## D - Query Data Lakes
+
+<figure>
+    <img src="./images/Query_data_lake.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
+
+### D.1 Pratice Lab Goals
+1 - Run an AWS Lambda function to generate a text file of fake credit card transactions.
+
+2 - Create an Amazon Athena table from the exported txt file.
+
+3 - Query the table for suspected credit card transactions.
+
+4 - Review the locations of the saved query results.
+
+### D.2 DIY
+1 - Drop (delete) the ``sus_transactions`` table.
