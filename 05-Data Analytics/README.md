@@ -118,3 +118,10 @@ In this file we will walkthrough Data Analytics csenarios
 2. [CREATE TABLE](https://docs.aws.amazon.com/athena/latest/ug/create-table.html)
 
 3. [Examples of CTAS queries](https://docs.aws.amazon.com/athena/latest/ug/ctas-examples.html#ctas-example-partitioned)
+
+## F - Populating the Data Catalog
+
+<figure>
+    <img src="./images/Populating the Data Catalog.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
