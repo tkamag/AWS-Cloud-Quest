@@ -111,3 +111,10 @@ In this file we will walkthrough Data Analytics csenarios
 1 - Create a copy of the DynamoDB ticket table by using the **create table as** (CTAS) command.
 
 2 - Include an external_location in a folder called **newtable** in the data-lake S3 bucket.
+
+**Note:*
+1. [CREATE TABLE AS](https://docs.aws.amazon.com/athena/latest/ug/create-table-as.html)
+
+2. [CREATE TABLE](https://docs.aws.amazon.com/athena/latest/ug/create-table.html)
+
+3. [Examples of CTAS queries](https://docs.aws.amazon.com/athena/latest/ug/ctas-examples.html#ctas-example-partitioned)
