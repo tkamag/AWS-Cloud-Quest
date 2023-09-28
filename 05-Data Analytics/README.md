@@ -153,3 +153,10 @@ In this file we will walkthrough Data Analytics csenarios
     <img src="./images/Streaming_Ingestion.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+## J - Real Time Data Streaming
+
+<figure>
+    <img src="./images/Real_Time_Data.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
