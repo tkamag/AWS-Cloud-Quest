@@ -125,3 +125,10 @@ In this file we will walkthrough Data Analytics csenarios
     <img src="./images/Populating the Data Catalog.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+## G - Securing the Data lMake
+
+<figure>
+    <img src="./images/Populating the Data Catalog.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
