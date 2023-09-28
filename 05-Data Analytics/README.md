@@ -146,3 +146,10 @@ In this file we will walkthrough Data Analytics csenarios
     <img src="./images/Daily_Batch_Extraction.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+## I - Streaming Ingestion
+
+<figure>
+    <img src="./images/Streaming_Ingestion.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
