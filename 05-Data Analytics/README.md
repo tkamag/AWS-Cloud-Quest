@@ -126,9 +126,9 @@ In this file we will walkthrough Data Analytics csenarios
     <figcaption></figcaption>
 </figure>
 
-## G - Securing the Data lMake
+## G - Securing the Data Lake
 
 <figure>
-    <img src="./images/Populating the Data Catalog.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <img src="./images/Securing_Data_Lake.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
