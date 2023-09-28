@@ -90,3 +90,24 @@ In this file we will walkthrough Data Analytics csenarios
 
 ### D.2 DIY
 1 - Drop (delete) the ``sus_transactions`` table.
+
+## E - Fedarated Queries
+
+<figure>
+    <img src="./images/Federated_Queries.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
+
+### E.1 Pratice Lab Goals
+1 -Create and run an AWS Glue crawler to create an AWS Glue Data Catalog from data housed in Amazon DynamoDB.
+
+2 - Create and run an AWS Glue ETL job to create a data lake in AMazon S3 from the already created Data atalog.
+
+3 - Create and run a query, using Amazon Athena,, to obtain insights to the importes data.
+
+4 - Cretae and run a query, using Athena directly againts the DynamoDB database, with federated query access.
+
+### E.2 DIY
+1 - Create a copy of the DynamoDB ticket table by using the **create table as** (CTAS) command.
+
+2 - Include an external_location in a folder called **newtable** in the data-lake S3 bucket.
