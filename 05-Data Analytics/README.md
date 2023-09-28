@@ -132,3 +132,10 @@ In this file we will walkthrough Data Analytics csenarios
     <img src="./images/Securing_Data_Lake.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+
+**Note:**
+
+1. [Granting Data Catalog permissions using the named resource method](https://docs.aws.amazon.com/lake-formation/latest/dg/granting-cat-perms-named-resource.html)
+
+2. [Data filtering and cell-level security in Lake Formation](https://docs.aws.amazon.com/lake-formation/latest/dg/data-filtering.html)
