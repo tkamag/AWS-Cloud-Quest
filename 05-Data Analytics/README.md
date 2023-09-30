@@ -160,3 +160,10 @@ In this file we will walkthrough Data Analytics csenarios
     <img src="./images/Real_Time_Data.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+## K - CLoud Data Warehouse
+
+<figure>
+    <img src="./images/Cloud_Data.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
