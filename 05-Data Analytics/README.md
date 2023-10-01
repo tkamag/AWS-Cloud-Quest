@@ -171,6 +171,6 @@ In this file we will walkthrough Data Analytics csenarios
 ## L - Documents Indexing And Search
 
 <figure>
-    <img src="./images/Cloud_Data.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <img src="./images/Documents_1.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
