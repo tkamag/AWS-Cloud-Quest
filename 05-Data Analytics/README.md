@@ -174,3 +174,10 @@ In this file we will walkthrough Data Analytics csenarios
     <img src="./images/Documents_1.png" alt=".." title="Optional title" width="64%" height="70%"/>
     <figcaption></figcaption>
 </figure>
+
+## M - Design a NoSQL Database
+
+<figure>
+    <img src="./images/Database.png" alt=".." title="Optional title" width="64%" height="70%"/>
+    <figcaption></figcaption>
+</figure>
